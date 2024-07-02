@@ -10,10 +10,19 @@ WeedBuster is a machine learning project designed to detect weeds in images usin
 - High accuracy in weed detection
 - Easy-to-use interface for uploading and analyzing images
 
+# Report
+
+Report: [https://api.wandb.ai/links/fivibi5910/h5jxlo1]
+# Dataset
+
+Dataset: [https://www.kaggle.com/datasets/swish9/weeds-detection]
+
 ## Installation
 To get started with WeedBuster, clone the repository and install the necessary dependencies:
+
 
 ```bash
 git clone https://github.com/yourusername/WeedBuster-YOLOv8-Weeds-Detection.git
 cd WeedBuster-YOLOv8-Weeds-Detection
 pip install -r requirements.txt
+```
