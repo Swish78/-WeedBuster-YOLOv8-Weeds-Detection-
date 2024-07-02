@@ -1,0 +1,6 @@
+train: /Users/swayampatil/weedsDetection/Weeds_Detection/dataset/images/train
+val: /Users/swayampatil/weedsDetection/Weeds_Detection/dataset/images/val
+test: /Users/swayampatil/weedsDetection/Weeds_Detection/dataset/images/test
+
+nc: 2  # Number of classes
+names: ['crop', 'weed']  # List of class names

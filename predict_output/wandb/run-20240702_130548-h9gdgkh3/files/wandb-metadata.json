@@ -1,0 +1,62 @@
+{
+    "os": "Linux-5.15.133+-x86_64-with-glibc2.31",
+    "python": "3.10.13",
+    "heartbeatAt": "2024-07-02T13:05:49.261923",
+    "startedAt": "2024-07-02T13:05:48.437114",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "kaggle.ipynb",
+    "codePathLocal": null,
+    "root": "/kaggle/working",
+    "host": "dd42967902f3",
+    "username": "root",
+    "executable": "/opt/conda/bin/python3.10",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2000.138,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2000.138,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2000.138,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2000.138,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2000.138,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 8062.387607574463,
+            "used": 5689.385654449463
+        }
+    },
+    "gpu": "Tesla P100-PCIE-16GB",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "Tesla P100-PCIE-16GB",
+            "memory_total": 17179869184
+        }
+    ],
+    "memory": {
+        "total": 31.357563018798828
+    }
+}

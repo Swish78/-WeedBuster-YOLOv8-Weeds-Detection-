@@ -1,0 +1,7 @@
+names:
+- Crop
+- Weed
+nc: 2
+test: /kaggle/input/weeds-detection/dataset/images/test
+train: /kaggle/input/weeds-detection/dataset/images/train
+val: /kaggle/input/weeds-detection/dataset/images/val
